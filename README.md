@@ -1,3 +1,3 @@
 # Face_Recogniton
 
-Face recognition using CNN network with VGG-16 model
+Nhận dạng khuôn mặt sử dụng mạng CNN với model VGG-16
